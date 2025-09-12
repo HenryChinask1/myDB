@@ -1,1 +1,1 @@
-A basic relational database.
+A basic key-value database.
